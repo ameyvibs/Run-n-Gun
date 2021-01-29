@@ -1,0 +1,1 @@
+srp_kill_player();
