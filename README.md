@@ -1,10 +1,10 @@
 # On-the-run
-On the run is a platform game with full controller support in which players control a character as he makes his way through a skeleton infested dungeon.
+On the run is  platformer game with multiple endings with full controller support in which the player controls a character as he makes his way through a skeleton infested dungeon.
 
 # Installation
 The installer can be found in the releases section which will install the game for you using a wizard.
 <br/>
-You can also simply unzip the standalone file and play directly.
+You can also simply unzip the standalone zip file and play directly.
 
 # Compiling from Source
 Clone this repository and open the ontherun.yyp file using Gamemaker Studio 2.
