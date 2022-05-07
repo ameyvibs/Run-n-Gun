@@ -1,5 +1,5 @@
-# On-the-run
-On the run is a platformer game with multiple endings with full controller support in which the player controls a character as he makes his way through a skeleton infested dungeon.
+# Run n' Gun
+Run n' Gun is a platformer game with multiple endings with full controller support in which the player controls a character as he makes his way through a skeleton infested dungeon.
 
 # Installation
 The installer can be found in the releases section which will install the game for you using a wizard.
